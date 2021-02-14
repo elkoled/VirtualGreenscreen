@@ -20,7 +20,7 @@ https://github.com/CatxFish/obs-virtual-cam/releases
 
 ## Usage
 
-`python virtual_greenscreen.py`
-1. Select model
-2. Run
-3. In OBS, select "OBS-Camera" as camera
+1. `python virtual_greenscreen.py`
+2. Select model
+3. Run
+4. In OBS, select "OBS-Camera" as camera
