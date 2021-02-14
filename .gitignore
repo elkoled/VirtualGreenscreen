@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 pretrained/u2net_human_seg/u2net_human_seg.pth
+pretrained/u2netp/u2netp.pth

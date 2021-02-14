@@ -1,6 +1,6 @@
-numpy==1.20.1
-torch==1.7.1
-torchvision==0.8.2
-pillow==8.1.0
-pyvirtualcam==0.3.2
-opencv-python==4.5.1.48
+numpy
+torch
+torchvision
+pillow
+pyvirtualcam
+opencv-python

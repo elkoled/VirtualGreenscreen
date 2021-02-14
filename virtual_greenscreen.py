@@ -29,6 +29,7 @@ def main():
     model_name='u2net'
     
     model_dir = os.path.join(os.getcwd(), 'pretrained', model_name+'_human_seg', model_name + '_human_seg.pth')
+    #model_dir = os.path.join(os.getcwd(), 'pretrained', model_name+'p', model_name + 'p.pth')
 
     ###### 2. setup webcam ######
     cap = cv2.VideoCapture(0)
