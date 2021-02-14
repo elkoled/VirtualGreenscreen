@@ -9,6 +9,7 @@ It utilizes the U^2 Net segmentation model.
 - OBS
 - obs-virtual-cam:
 https://github.com/CatxFish/obs-virtual-cam/releases
+- CUDA 10.2: https://developer.nvidia.com/cuda-10.2-download-archive
 - Install python libraries: <br>
 `pip install -r requirements.txt`
 - Download models:
