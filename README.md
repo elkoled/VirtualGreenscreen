@@ -11,7 +11,7 @@ It utilizes the U^2 Net segmentation model.
 https://github.com/CatxFish/obs-virtual-cam/releases
 - CUDA 10.2: https://developer.nvidia.com/cuda-10.2-download-archive
 - Install python libraries:
-`pip install -r requirements.txt` <br><br>
+`pip install -r requirements.txt`
 #### Download models:
 1. Big accurate model: <br>
 https://drive.google.com/file/d/1-Yg0cxgrNhHP-016FPdp902BR-kSsA4P
