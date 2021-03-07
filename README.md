@@ -7,8 +7,6 @@ It utilizes the U^2 Net segmentation model.
 ## Requirements
 
 - OBS: https://obsproject.com/
-- obs-virtual-cam:
-https://github.com/CatxFish/obs-virtual-cam/releases
 - CUDA 10.2: https://developer.nvidia.com/cuda-10.2-download-archive
 - Install python libraries:
 `pip install -r requirements.txt`
@@ -26,5 +24,5 @@ https://drive.google.com/file/d/1rbSTGKAE-MTxBYHd-51l2hMOQPT_7EPy
 1. `python virtual_greenscreen.py`
 2. Select model
 3. Run
-4. In OBS, select "OBS-Camera" as camera
+4. In your video conferencing app, select "OBS Virtual Camera" as camera
  
